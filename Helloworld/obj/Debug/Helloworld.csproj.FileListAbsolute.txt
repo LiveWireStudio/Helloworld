@@ -1,0 +1,2 @@
+C:\Projects\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
+C:\Projects\Helloworld\Helloworld\obj\Debug\Helloworld.csprojResolveAssemblyReference.cache
